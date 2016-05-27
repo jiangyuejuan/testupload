@@ -1,0 +1,6 @@
+D:\demoProject\CodeTest\CodeTest\bin\Debug\CodeTest.exe.config
+D:\demoProject\CodeTest\CodeTest\bin\Debug\CodeTest.exe
+D:\demoProject\CodeTest\CodeTest\bin\Debug\CodeTest.pdb
+D:\demoProject\CodeTest\CodeTest\obj\Debug\CodeTest.csprojResolveAssemblyReference.cache
+D:\demoProject\CodeTest\CodeTest\obj\Debug\CodeTest.exe
+D:\demoProject\CodeTest\CodeTest\obj\Debug\CodeTest.pdb

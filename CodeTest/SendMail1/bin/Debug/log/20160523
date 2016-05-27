@@ -1,0 +1,4 @@
+﻿[Header]
+01:00:33 DEBUG  124 开始执行服务:1:00:33 AM
+01:00:34 DEBUG  124 服务执行发生异常:Unable to open connection to "MySQL, MySQL provider V6.9.6".
+[Footer]

@@ -1,0 +1,6 @@
+D:\demoProject\CodeTest\SendMail1\bin\Debug\SendMail1.exe.config
+D:\demoProject\CodeTest\SendMail1\bin\Debug\SendMail1.exe
+D:\demoProject\CodeTest\SendMail1\bin\Debug\SendMail1.pdb
+D:\demoProject\CodeTest\SendMail1\obj\Debug\SendMail1.csprojResolveAssemblyReference.cache
+D:\demoProject\CodeTest\SendMail1\obj\Debug\SendMail1.exe
+D:\demoProject\CodeTest\SendMail1\obj\Debug\SendMail1.pdb
